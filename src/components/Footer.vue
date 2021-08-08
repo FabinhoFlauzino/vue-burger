@@ -1,7 +1,7 @@
 <template>
-<div id="footer">
-    <p>Footer</p>
-</div>
+<footer id="footer">
+    <p>Burguer e CIA &copy; 2021</p>
+</footer>
 
 </template>
 
